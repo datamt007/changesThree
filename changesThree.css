@@ -1,0 +1,206 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;700&family=Open+Sans:wght@200;400;500;700&family=Roboto:wght@200;400;500;700&family=Baumans:wght@200;400;500;700&family=Anton&display=swap");
+body{
+    /* background-color: #000!important; */
+    font-family: Arial,sans-serif;
+    font-size: 14px!important;
+}
+.Anton{
+    font-family: Anton, sans-serif!important;
+}
+.Roboto{
+    font-family: Roboto, sans-serif!important;
+}
+.Poppins{
+    font-family: Poppins, sans-serif!important;
+}
+.hero-section{
+    background-color: rgba(0, 0, 0, 0)!important;
+    background-image:none!important;
+}
+.g1{
+    background:linear-gradient(-44deg, black 12% 26%, #020236 103%);
+}
+.h1.hero-title{
+    margin-bottom: 0px!important;
+    /* margin-top: 30px!important; */
+    margin-left: -3px!important;
+    font-size: 32px!important;
+    line-height: 125%!important;
+    font-weight: 700!important;
+    text-transform: none;
+    text-transform: uppercase!important;
+    color: #000000!important;
+}
+.header{
+    border-bottom: 1px solid hsl(0deg 0% 100% / 0%)!important;
+}
+.nav-item{
+    font-family: Roboto, sans-serif!important;
+    /* font-weight: 200!important; */
+    letter-spacing: .5px;
+}
+@media (min-width: 320px) {
+    .cBox1{width: 330px;margin-top: 0px;}
+    .wave01{position: relative;
+        width: 1391px;
+        height: 1511px;
+        top: -598px;
+        right: 257px;
+        fill: #ffffff;}
+    .wave02{position: relative;
+        width: 1462px;
+        height: 1486px;
+        top: -244px;
+        right: 358px;
+        fill: #ffffff;
+        transform: rotate(180deg);}
+    .star{position: relative;
+        width: 1279px;
+        height: 1160px;
+        top: -278px;}
+    .planet01{position: relative;
+        width: 44px;
+        height: 30px;
+        float: right;
+        right: 12px;
+        top: 121px;
+        left: -31px;
+        fill: #ff004c;}
+    .planet02{    position: relative;
+        width: 96px;
+        height: 76px;
+        float: right;
+        right: -554px;
+        top: 596px;
+        left: -6px;
+        fill: #ff004c;}
+    .world{    position: relative;
+        width: 426px;
+        height: 849px;
+        float: right;
+        right: 114px;
+        top: 190px;
+        fill: #ff004c;}
+    .rocket{position: relative;
+        width: 59px;
+        height: 44px;
+        top: 482px;
+        right: -265px;
+        fill: #6ebf60;
+        transform: rotate(-45deg);}
+    .settl{position: relative;
+        width: 54px;
+        height: 65px;
+        float: right;
+        right: 26px;
+        top: 121px;
+        left: -279px;
+        fill: #6ebf60;}
+    .starR1{position: relative;
+        width: 35px;
+        height: 134px;
+        float: right;
+        right: -554px;
+        top: 97px;
+        left: -208px;
+        fill: #ff004c;}
+    .starR2{    position: relative;
+        width: 59px;
+        height: 44px;
+        top: 638px;
+        fill: #ff004c;}
+    .star3{    position: relative;
+        width: 103px;
+        height: 36px;
+        float: right;
+        right: -554px;
+        top: 97px;
+        left: -108px;
+        fill: #ff004c;}
+}
+@media (min-width: 992px) {
+    .cBox1{width: 1000px;margin-top: 10px;}
+    .wave01{    position: relative;
+        width: 1384px;
+        height: 1486px;
+        top: -598px;
+        right: 9px;
+        fill: #ffffff;}
+    .wave02{    position: relative;
+        width: 1384px;
+        height: 1486px;
+        top: -293px;
+        right: 9px;
+        fill: #ffffff;
+        transform: rotate(180deg);}
+    .star{    position: relative;
+        width: 1477px;
+        height: 1160px;
+        top: -88px;
+        fill: #ff004c;}
+    .planet01{    position: relative;
+        width: 44px;
+        height: 30px;
+        float: right;
+        right: 12px;
+        top: 121px;
+        left: -31px;
+        fill: #ff004c;}
+    .planet02{      position: relative;
+        width: 211px;
+        height: 134px;
+        float: right;
+        right: -554px;
+        top: 441px;
+        left: -208px;
+        fill: #ff004c;}
+    .world{  position: relative;
+        width: 991px;
+        height: 849px;
+        float: right;
+        right: 753px;
+        top: 218px;
+        fill: #ff004c;}
+    .rocket{position: relative;
+        width: 132px;
+        height: 132px;
+        top: 442px;
+        right: -595px;
+        fill: #6ebf60;
+        transform: rotate(-45deg);}
+    .settl{    position: relative;
+        width: 54px;
+        height: 44px;
+        float: right;
+        right: 26px;
+        top: 121px;
+        left: -1030px;
+        fill: #6ebf60;}
+    .starR1{position: relative;
+        width: 35px;
+        height: 134px;
+        right: -553px;
+        top: 337px;
+        left: -21px;
+        fill: #ff004c;}
+    .starR2{       position: relative;
+        width: 59px;
+        height: 44px;
+        top: 465px;
+        right: -757px;
+        fill: #ff004c;}
+    .star3{        position: relative;
+        width: 103px;
+        height: 82px;
+        float: right;
+        right: -554px;
+        top: 97px;
+        left: -108px;
+        fill: #ff004c;}
+    .star31{top: 402px;
+        left: 2px;
+        float: left;
+        width: 55px;
+        height: 43px;
+        fill: #ff004c;}
+}
